@@ -2,9 +2,9 @@
 
 ### 🔭 Currently Working On
 
-[] Game of Mora (Java)
-[] Insurance System Interface and back-end (Java)
-[] Discrete Maths Graph calculator (Java)
+- [ ] Game of Mora (Java)
+[ ] Insurance System Interface and back-end (Java)
+- [] Discrete Maths Graph calculator (Java)
 [] Plagiarism Checker (Matlab)
 [] GPT Riddle Game (Java JavaFx) (in progress)
 [] APSS UoA Cube-satellite (in progress)
