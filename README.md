@@ -4,9 +4,9 @@ I'm a passionate [Your Profession] based in [Your Location]. Welcome to my GitHu
 
 ### 🔭 Currently Working On
 
-- [Project 1](link_to_project_1) - Description of project 1.
-- [Project 2](link_to_project_2) - Description of project 2.
-- [Project 3](link_to_project_3) - Description of project 3.
+- [WDCC VPS]([link_to_project_1](https://github.com/UoaWDCC/VPS)) - multi-year project called the VPS (Virtual Patient Simulator) with WDCC. We collaborated closely with the university's health science facility to develop an interactive platform aiming to enhance the education of student doctors, pharmacologists, and healthcare professionals in New Zealand
+- [BF Compiler]([link_to_project_2](https://github.com/John-Moore-UOA/BF-compiler)) - This is a compiler for the esoteric language 'BF'
+- [Plagerism Checker]([link_to_project_3](https://github.com/John-Moore-UOA/University-Stuff/tree/main/Matlab/131%20Matlab%20Project)) - This is a plagerism checker coded up with Mathlab
 
 ### 🌱 Currently Learning
 
