@@ -6,8 +6,16 @@
 - [x] Insurance System Interface and back-end (Java)
 - [x] Discrete Maths Graph calculator (Java)
 - [x] Plagiarism Checker (Matlab)
-- [x] GPT Riddle Game (Java JavaFx) (in progress)
-- [x] APSS UoA Cube-satellite (in progress)
+- [ ] GPT Riddle Game (Java JavaFx) (in progress)
+- [ ] APSS UoA Cube-satellite (in progress)
+
+- [x] Integrating Spotify API into a personal website
+- [x] ‘BrainF’ language compiler
+- [x] Machine Learning in R
+- [x] Graphical Bitmap generator
+- [x] Fractal generation, including the Mandelbrot set
+- [x] Lua Scripting for video games
+- [x] AVL Binary Tree Algorithm
 
 ### 📫 How to Reach Me
 
