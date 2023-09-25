@@ -29,7 +29,7 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 
 ### 📫 How to Reach Me
 
-You can reach out to me via email at [jmoo713@aucklanduni.ac.nz](mailto:jmoo713@aucklanduni.ac.nz) or connect with me on [LinkedIn](https://www.linkedin.com/in/johnmoore03/).
+You can reach out to me via email at [My Email](mailto:jmoo713@aucklanduni.ac.nz) or connect with me on [LinkedIn](https://www.linkedin.com/in/johnmoore03/).
 
 
 
