@@ -21,7 +21,7 @@ You can reach out to me via email at [jmoo713@aucklanduni.ac.nz](mailto:jmoo713@
 
 Here are some of the technologies and tools I frequently work with:
 
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20Python%20%7C%20React%20%7C%20Node.js%20%7C%20SQL%20%7C%20Git%20%7C%20Docker-blue)](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20Python%20%7C%20React%20%7C%20Node.js%20%7C%20SQL%20%7C%20Git%20%7C%20Docker-blue)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20Python%20%7C%20React%20%7C%20Node.js%20%7C%20SQL%20%7C%20Git%20%7C%20Docker-blue)](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20Python%20%7C%20React)
 
 Feel free to explore my repositories to see more of my work!
 
