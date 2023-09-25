@@ -9,6 +9,8 @@
 - [ ] GPT Riddle Game (Java JavaFx) (in progress)
 - [ ] APSS UoA Cube-satellite (in progress)
 
+### Personal Projects
+
 - [x] Integrating Spotify API into a personal website
 - [x] ‘BrainF’ language compiler
 - [x] Machine Learning in R
