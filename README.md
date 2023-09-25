@@ -17,7 +17,7 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 - [ ] GPT Riddle Game (Java JavaFx) (in progress)
 - [ ] APSS UoA Cube-satellite (in progress)
 
-### Personal Projects
+### [Personal Projects](https://github.com/John-Moore-UOA/Personal)
 
 - [x] Graphical Bitmap generator
 - [x] ‘BrainF’ language compiler
