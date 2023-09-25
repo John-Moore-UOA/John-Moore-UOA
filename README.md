@@ -4,9 +4,9 @@ I'm a passionate [Software Engineer] based in [Auckland, New Zealand]. Welcome t
 
 ### 🔭 Currently Working On
 
-- [WDCC VPS]([link_to_project_1](https://github.com/UoaWDCC/VPS)) - multi-year project called the VPS (Virtual Patient Simulator) with WDCC. We collaborated closely with the university's health science facility to develop an interactive platform aiming to enhance the education of student doctors, pharmacologists, and healthcare professionals in New Zealand
-- [BF Compiler]([link_to_project_2](https://github.com/John-Moore-UOA/BF-compiler)) - This is a compiler for the esoteric language 'BF'
-- [Plagerism Checker]([link_to_project_3](https://github.com/John-Moore-UOA/University-Stuff/tree/main/Matlab/131%20Matlab%20Project)) - This is a plagerism checker coded up with Mathlab
+- [WDCC VPS]([[link_to_project_1](https://github.com/UoaWDCC/VPS)](https://github.com/UoaWDCC/VPS)) - multi-year project called the VPS (Virtual Patient Simulator) with WDCC. We collaborated closely with the university's health science facility to develop an interactive platform aiming to enhance the education of student doctors, pharmacologists, and healthcare professionals in New Zealand
+- [BF Compiler]([[link_to_project_2](https://github.com/John-Moore-UOA/BF-compiler)](https://github.com/John-Moore-UOA/BF-compiler)) - This is a compiler for the esoteric language 'BF'
+- [Plagerism Checker]([[link_to_project_3](https://github.com/John-Moore-UOA/University-Stuff/tree/main/Matlab/131%20Matlab%20Project)](https://github.com/John-Moore-UOA/University-Stuff/tree/main/Matlab/131%20Matlab%20Project)) - This is a plagerism checker coded up with Mathlab
 
 ### 📫 How to Reach Me
 
