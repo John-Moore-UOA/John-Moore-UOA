@@ -16,7 +16,7 @@ You can reach out to me via email at [jmoo713@aucklanduni.ac.nz](mailto:jmoo713@
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Moore-UOA&layout=compact&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=John-Moore-UOA&theme=github)
+
 ### 🛠️ Languages and Tools
 
 Here are some of the technologies and tools I frequently work with:
