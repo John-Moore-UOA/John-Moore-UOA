@@ -1,6 +1,4 @@
-## 👋 Hello, I'm [John Moore]!
-
-I'm a passionate [Software Engineer] based in [Auckland, New Zealand]. Welcome to my GitHub profile! 🚀
+[github-header-image](https://github.com/John-Moore-UOA/John-Moore-UOA/assets/126381092/1033f3ab-4013-4662-b4db-148233e6f78f)
 
 ### 🔭 Currently Working On
 
