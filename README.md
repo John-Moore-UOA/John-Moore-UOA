@@ -8,7 +8,7 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 
 ---
 
-### 🔭 [Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
+### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
 
 - [x] Game of Mora (Java)
 - [x] Insurance System Interface and back-end (Java)
@@ -17,7 +17,7 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 - [ ] GPT Riddle Game (Java JavaFx) (in progress)
 - [ ] APSS UoA Cube-satellite (in progress)
 
-### [Personal Projects](https://github.com/John-Moore-UOA/Personal)
+### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
 
 - [x] Graphical Bitmap generator
 - [x] ‘BrainF’ language compiler
