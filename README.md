@@ -2,9 +2,12 @@
 
 ### 🔭 Currently Working On
 
-VPS - multi-year project called the VPS (Virtual Patient Simulator) with WDCC. We collaborated closely with the university's health science facility to develop an interactive platform aiming to enhance the education of student doctors, pharmacologists, and healthcare professionals in New Zealand
-BF Compiler - This is a compiler for the esoteric language 'BF'
-Plagerism Checker - This is a plagerism checker coded up with Mathlab
+[] Game of Mora (Java)
+[] Insurance System Interface and back-end (Java)
+[] Discrete Maths Graph calculator (Java)
+[] Plagiarism Checker (Matlab)
+[] GPT Riddle Game (Java JavaFx) (in progress)
+[] APSS UoA Cube-satellite (in progress)
 
 ### 📫 How to Reach Me
 
