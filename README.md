@@ -8,7 +8,7 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 [Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
 
 - [x] Game of Mora (Java)
 - [x] Insurance System Interface and back-end (Java)
