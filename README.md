@@ -15,10 +15,10 @@
 
 ### Personal Projects
 
-- [x] Integrating Spotify API into a personal website
-- [x] ‘BrainF’ language compiler
-- [x] Machine Learning in R
 - [x] Graphical Bitmap generator
+- [x] ‘BrainF’ language compiler
+- [x] Integrating Spotify API into a personal website
+- [x] Machine Learning in R
 - [x] Fractal generation, including the Mandelbrot set
 - [x] Lua Scripting for video games
 - [x] AVL Binary Tree Algorithm
