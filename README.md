@@ -14,7 +14,7 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 - [x] Insurance System Interface and back-end (Java)
 - [x] Discrete Maths Graph calculator (Java)
 - [x] Plagiarism Checker (Matlab)
-- [ ] GPT Riddle Game (Java JavaFx) (in progress)
+- [x] GPT Riddle Game (Java JavaFx)
 - [ ] APSS UoA Cube-satellite (in progress)
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
@@ -26,6 +26,8 @@ Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the
 - [x] Fractal generation, including the Mandelbrot set
 - [x] Lua Scripting for video games
 - [x] AVL Binary Tree Algorithm
+- [x] Dijkstra's, Bellman-Ford's, Floyd-warshall's
+- [x] prim's, kruskal's
 
 ### 📫 How to Reach Me
 
