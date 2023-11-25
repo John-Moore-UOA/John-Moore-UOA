@@ -1,6 +1,6 @@
 ## About Me 🚀
 
-Hello, I'm **John Moore**, a second-year **Software Engineering** Student at the **University of Auckland**.
+Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the **University of Auckland**.
 
 
 ### 💻 Tech Stack:
