@@ -15,7 +15,7 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 - [x] Discrete Maths Graph calculator (Java)
 - [x] Plagiarism Checker (Matlab)
 - [x] GPT Riddle Game (Java JavaFx)
-- [ ] APSS UoA Cube-satellite (in progress)
+- [x] APSS UoA Cube-satellite Concept Compitition
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
 
