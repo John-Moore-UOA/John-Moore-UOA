@@ -9,7 +9,8 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 ---
 
 ### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
-
+- [ ] University of Auckland Volunteering Club Website
+- [x]  VPS - Virtual patient simulator with WDCC
 - [x] Game of Mora (Java)
 - [x] Insurance System Interface and back-end (Java)
 - [x] Discrete Maths Graph calculator (Java)
