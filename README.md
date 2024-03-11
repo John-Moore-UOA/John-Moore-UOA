@@ -19,7 +19,7 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 - [x] APSS UoA Cube-satellite Concept Compitition
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
-
+- [ ] OpenGl Fractal zoom
 - [x] Graphical Bitmap generator
 - [x] ‘BrainF’ language compiler
 - [x] Integrating Spotify API into a personal website
