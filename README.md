@@ -9,7 +9,9 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 ---
 
 ### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
+- [ ] Symbolic AI Agent!
 - [ ] University of Auckland Volunteering Club Website
+- [ ] Insurance application system with a modern design 
 - [x]  VPS - Virtual patient simulator with WDCC
 - [x] Game of Mora (Java)
 - [x] Insurance System Interface and back-end (Java)
@@ -19,7 +21,6 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 - [x] APSS UoA Cube-satellite Concept Compitition
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
-- [ ] OpenGl Fractal zoom
 - [x] Graphical Bitmap generator
 - [x] ‘BrainF’ language compiler
 - [x] Integrating Spotify API into a personal website
