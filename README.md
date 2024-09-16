@@ -9,11 +9,12 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 ---
 
 ### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
-- [ ] Symbolic AI Agent!
-- [ ] University of Auckland Volunteering Club Website
-- [ ] Insurance application system with a modern design 
+- [ ] Symbolic AI Agent using First Order Logic
+- [ ] Scheduler algorithm with visualization
+- [x] Flight booking REST endpoints and JPA
+- [x] University of Auckland Volunteering Club Website
+- [x] Insurance application system with a modern design 
 - [x]  VPS - Virtual patient simulator with WDCC
-- [x] Game of Mora (Java)
 - [x] Insurance System Interface and back-end (Java)
 - [x] Discrete Maths Graph calculator (Java)
 - [x] Plagiarism Checker (Matlab)
@@ -22,11 +23,8 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
 - [x] Graphical Bitmap generator
-- [x] ‘BrainF’ language compiler
 - [x] Integrating Spotify API into a personal website
-- [x] Machine Learning in R
 - [x] Fractal generation, including the Mandelbrot set
-- [x] Lua Scripting for video games
 - [x] AVL Binary Tree Algorithm
 - [x] Dijkstra's, Bellman-Ford's, Floyd-warshall's
 - [x] prim's, kruskal's
