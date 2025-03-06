@@ -11,11 +11,8 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 ### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
 - [ ] 4th Year Engineering Project - **Privacy conerns with VR biometric tracking / theft**
 - [ ] 4th Year Capstone engineering Project - **Software dashboard for electrical systems within electric vehicles**
-      
 - [ ] Supervised Machine Learning
 - [X] Symbolic AI Agent using First Order Logic
-- [X] Scheduler algorithm with visualization
-- [x] Flight booking REST endpoints and JPA
 - [x] University of Auckland Volunteering Club Website
 - [x] Insurance application system with a modern design 
 
@@ -23,8 +20,7 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 - [ ] VR application development
 - [ ] Experimentation with personal Mini-PC
 - [x] Profile Website
-- [x] Graphical Bitmap generator
-- [x] Fractal generation, including the Mandelbrot set
+
 
 ### 📫 How to Reach Me
 You can reach out to me via [:email: Email](mailto:jmoo713@aucklanduni.ac.nz) or connect with me on [:globe_with_meridians: LinkedIn](https://www.linkedin.com/in/johnmoore03/).
