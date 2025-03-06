@@ -10,7 +10,7 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 
 ### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
 - [ ] 4th Year Engineering Project - **Privacy conerns with VR biometric tracking / theft**
-- [ ] 4th Year Capstone engineering - **Project ##Software dashboard for electrical systems within electric vehicles**
+- [ ] 4th Year Capstone engineering Project - **Software dashboard for electrical systems within electric vehicles**
       
 - [ ] Supervised Machine Learning
 - [X] Symbolic AI Agent using First Order Logic
