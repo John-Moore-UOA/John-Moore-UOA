@@ -9,30 +9,25 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 ---
 
 ### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
-- [ ] Symbolic AI Agent using First Order Logic
-- [ ] Scheduler algorithm with visualization
+- [ ] 4th Year Engineering Project
+- [ ] 4th Year Capstone engineering Project
+      
+- [ ] Supervised Machine Learning
+- [X] Symbolic AI Agent using First Order Logic
+- [X] Scheduler algorithm with visualization
 - [x] Flight booking REST endpoints and JPA
 - [x] University of Auckland Volunteering Club Website
 - [x] Insurance application system with a modern design 
-- [x]  VPS - Virtual patient simulator with WDCC
-- [x] Insurance System Interface and back-end (Java)
-- [x] Discrete Maths Graph calculator (Java)
-- [x] Plagiarism Checker (Matlab)
-- [x] GPT Riddle Game (Java JavaFx)
-- [x] APSS UoA Cube-satellite Concept Compitition
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
+- [ ] VR application development
+- [x] Profile Website
+- [X] Home NAS system using mini-pc
 - [x] Graphical Bitmap generator
-- [x] Integrating Spotify API into a personal website
 - [x] Fractal generation, including the Mandelbrot set
-- [x] AVL Binary Tree Algorithm
-- [x] Dijkstra's, Bellman-Ford's, Floyd-warshall's
-- [x] prim's, kruskal's
 
 ### 📫 How to Reach Me
-
 You can reach out to me via [:email: Email](mailto:jmoo713@aucklanduni.ac.nz) or connect with me on [:globe_with_meridians: LinkedIn](https://www.linkedin.com/in/johnmoore03/).
-
 
 
 Feel free to explore my repositories to see more of my work!
