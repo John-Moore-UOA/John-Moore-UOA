@@ -21,8 +21,8 @@ Hello, I'm **John Moore**, a Third-year **Software Engineering** Student at the 
 
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
 - [ ] VR application development
+- [ ] Experimentation with personal Mini-PC
 - [x] Profile Website
-- [X] Home NAS system using mini-pc
 - [x] Graphical Bitmap generator
 - [x] Fractal generation, including the Mandelbrot set
 
