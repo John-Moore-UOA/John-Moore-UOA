@@ -1,6 +1,6 @@
 ## About Me 🚀
 
-Hello, I'm **John Moore**, a Fourth-year (final) **Software Engineering** Student at the **University of Auckland**.
+Hello, I'm **John Moore**, a graduate **Software Engineering** Student at the **University of Auckland**.
 
 
 ### 💻 Tech Stack:
@@ -8,17 +8,8 @@ Hello, I'm **John Moore**, a Fourth-year (final) **Software Engineering** Studen
 
 ---
 
-### [🔭 Currently Working On](https://github.com/John-Moore-UOA/University-Projects)
-- [ ] 4th Year Engineering Project - **Privacy conerns with VR biometric tracking / theft**
-- [ ] 4th Year Capstone engineering Project - **Software dashboard for electrical systems within electric vehicles**
-- [ ] Supervised Machine Learning
-- [X] Symbolic AI Agent using First Order Logic
-- [x] University of Auckland Volunteering Club Website
-- [x] Insurance application system with a modern design 
-
 ### [:pushpin: Personal Projects](https://github.com/John-Moore-UOA/Personal)
-- [ ] VR application development
-- [ ] Experimentation with personal Mini-PC
+- [x] VR application development
 - [x] Profile Website
 
 
