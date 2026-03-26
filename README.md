@@ -14,7 +14,4 @@ Currently pursuing a Master’s degree in Bioengineering, working within the ECL
 You can reach out to me via [:email: Email](mailto:jmoo713@aucklanduni.ac.nz) or connect with me on [:globe_with_meridians: LinkedIn](https://www.linkedin.com/in/johnmoore03/).
 
 
-Feel free to explore my repositories to see more of my work!
-
-Thanks for stopping by! 😄
 ---
